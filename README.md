@@ -9,9 +9,11 @@ https://user-images.githubusercontent.com/80220432/229659968-249275ff-171c-4156-
 
 ### Views
 
+<p align="row">
+  <img src="docs/pinch_mainview.png" width=400>
+  <img src="docs/pinch_secondaryview.png" width=400>
+ </p>
 
-![Screenshot showing screen](docs/pinch_mainview.png "Screenshot showing screen") 
-![Screenshot showing screen](docs/pinch_secondaryview.png "Screenshot showing screen")
  
   
   These pages were constructed using:
