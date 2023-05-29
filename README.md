@@ -3,12 +3,18 @@
 ## About the project
 
 This project demonstrates gestures within the SwiftUI framework by implementing the pinch and zoom feature of a image editor module. 
+<p align="center">
+    <img src="docs/Icon-App-iTunes.png" alt="Logo" width="80" height="80">
+</p>
+  <h3 align="center">Pinch</h3>
+
+https://user-images.githubusercontent.com/80220432/229659968-249275ff-171c-4156-be04-0221cb25b7fe.mov
 
 ### Views
 
 
 ![Screenshot showing screen](docs/pinch_mainview.png "Screenshot showing screen") 
-![Screenshot showing screen](docs/spinch_secondaryview.png "Screenshot showing screen")
+![Screenshot showing screen](docs/pinch_secondaryview.png "Screenshot showing screen")
  
   
   These pages were constructed using:
