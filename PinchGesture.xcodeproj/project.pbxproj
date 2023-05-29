@@ -43,6 +43,7 @@
 		368759AC2A2493B000F6D4D3 = {
 			isa = PBXGroup;
 			children = (
+				368759DA2A24B14400F6D4D3 /* docs */,
 				368759B72A2493B000F6D4D3 /* PinchGesture */,
 				368759B62A2493B000F6D4D3 /* Products */,
 			);
@@ -109,6 +110,13 @@
 				368759D02A24A40E00F6D4D3 /* PageData.swift */,
 			);
 			path = Data;
+			sourceTree = "<group>";
+		};
+		368759DA2A24B14400F6D4D3 /* docs */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = docs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
