@@ -6,10 +6,10 @@ This project demonstrates gestures within the SwiftUI framework by implementing 
 
 ### Views
 
-<p align="row">
+
 ![Screenshot showing screen](docs/pinch_mainview.png "Screenshot showing screen") 
 ![Screenshot showing screen](docs/spinch_secondaryview.png "Screenshot showing screen")
- </p>
+ 
   
   These pages were constructed using:
   
