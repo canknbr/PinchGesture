@@ -21,6 +21,6 @@ This project demonstrates gestures within the SwiftUI framework by implementing 
 
  https://user-images.githubusercontent.com/80220432/229659968-249275ff-171c-4156-be04-0221cb25b7fe.mov
   
-  These pages were constructed using:
+
   
 
